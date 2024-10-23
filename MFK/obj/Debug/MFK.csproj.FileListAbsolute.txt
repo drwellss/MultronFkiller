@@ -1,0 +1,12 @@
+D:\yazilim\MFK\bin\Debug\MFK.exe.config
+D:\yazilim\MFK\bin\Debug\MFK.exe
+D:\yazilim\MFK\bin\Debug\MFK.pdb
+D:\yazilim\MFK\bin\Debug\RJCodeAdvance.RJControls.dll
+D:\yazilim\MFK\obj\Debug\MFK.csproj.AssemblyReference.cache
+D:\yazilim\MFK\obj\Debug\MFK.Form1.resources
+D:\yazilim\MFK\obj\Debug\MFK.Properties.Resources.resources
+D:\yazilim\MFK\obj\Debug\MFK.csproj.GenerateResource.cache
+D:\yazilim\MFK\obj\Debug\MFK.csproj.CoreCompileInputs.cache
+D:\yazilim\MFK\obj\Debug\MFK.csproj.Up2Date
+D:\yazilim\MFK\obj\Debug\MFK.exe
+D:\yazilim\MFK\obj\Debug\MFK.pdb
