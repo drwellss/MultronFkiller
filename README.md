@@ -7,4 +7,4 @@ You can shredd files with one click
 
 
 
-[https://github.com/drwellss/MultronFkiller/blob/main/mfk.png?raw=true]
+![alt text](https://github.com/drwellss/MultronFkiller/blob/main/mfk.png?raw=true)
