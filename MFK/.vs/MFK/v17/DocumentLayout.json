@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|d:\\indirilenler\\multronfkiller-mfk_102_rls\\multronfkiller-mfk_102_rls\\mfk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MFK||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\whousef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9F86A-E68D-42DC-AE6E-1B30A10E4304}|MFK.csproj|solutionrelative:whousef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-11-07T17:12:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "whousef.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\whousef.cs",
+              "RelativeDocumentMoniker": "whousef.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\whousef.cs",
+              "RelativeToolTip": "whousef.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:17:39.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MFK",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\MFK.csproj",
+              "RelativeDocumentMoniker": "MFK.csproj",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\MFK.csproj",
+              "RelativeToolTip": "MFK.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T06:25:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:33:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAApwPEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:30:20.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\indirilenler\\MultronFkiller-mfk_102_rls\\MultronFkiller-mfk_102_rls\\MFK\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:56:27.628Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
