@@ -12,4 +12,4 @@ It provides closing all processes which using the flle (You can use this without
 
 [DOWNLOADS](https://github.com/drwellss/MultronFkiller/releases)
 
-![alt text](https://github.com/drwellss/MultronFkiller/blob/mfk_103_b1/mfilek.png/mfk.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFkiller/blob/mfk_103_b1/mfilek.png?raw=true)
