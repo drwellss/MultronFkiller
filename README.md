@@ -10,6 +10,8 @@ it uses non-zero pseudo random bytes to shred files
 
 It provides closing all processes which using the flle (You can use this without deleting or shredding file, it can also help removing viruses)
 
+## https://discord.gg/wbNCYJf69J  =   Multron Discord Server - a place that you can get support or talk about technology
+
 [DOWNLOADS](https://github.com/drwellss/MultronFkiller/releases)
 
 ![alt text](https://github.com/drwellss/MultronFkiller/blob/mfk_103_b1/mfilek.png?raw=true)
