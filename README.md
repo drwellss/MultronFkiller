@@ -12,6 +12,8 @@ It provides closing all processes which using the flle (You can use this without
 
 ## https://discord.gg/d7qrzBhePQ  =   Multron Discord Server - a place that you can get support or talk about technology
 
+# You may want support us: https://buymeacoffee.com/multron
+
 [DOWNLOADS](https://github.com/drwellss/MultronFkiller/releases)
 
 ![alt text](https://github.com/drwellss/MultronFkiller/blob/mfk_103_b1/mfilek.png?raw=true)
