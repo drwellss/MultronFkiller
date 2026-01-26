@@ -2,7 +2,7 @@
 
 You will no longer get update, You can fork it under AAL License requirements. (You have to put license file in fork.)
 
-Why I Abandoned?: I have no motivation to continue developing and i dont think it will worth it, I think program will stay in dusty pages of history. I have also psychologic problems.
+Why I Abandoned?: I have no motivation to continue developing and i dont think it will worth it, I have also psychologic problems.
 
 I'm Sorry.
 
